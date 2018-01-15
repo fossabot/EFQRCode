@@ -7,6 +7,7 @@
     <a href="https://codecov.io/gh/EyreFree/EFQRCode">
         <img src="https://codecov.io/gh/EyreFree/EFQRCode/branch/master/graph/badge.svg">
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FApolloZhu%2FEFQRCode?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FApolloZhu%2FEFQRCode.svg?type=shield"/></a>
     <a href="https://github.com/Carthage/Carthage/">
         <img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat">
     </a>
@@ -51,6 +52,9 @@
 EFQRCode is a lightweight, pure-Swift library for generating pretty QRCode image with input watermark or icon and recognizing QRCode from image, it is based on `CoreGraphics`, `CoreImage` and `ImageIO`. EFQRCode provides you a better way to operate QRCode in your app, it works on `iOS`, `macOS` and `tvOS`, and it is available through `CocoaPods`, `Carthage` and `Swift Package Manager`. This project is inspired by [qrcode](https://github.com/sylnsfar/qrcode). 
 
 > [中文介绍](/README_CN.md)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FApolloZhu%2FEFQRCode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FApolloZhu%2FEFQRCode?ref=badge_large)
 
 ## Overview
 
